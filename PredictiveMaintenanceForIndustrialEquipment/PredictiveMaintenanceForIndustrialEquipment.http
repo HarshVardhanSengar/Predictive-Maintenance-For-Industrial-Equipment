@@ -1,0 +1,6 @@
+@PredictiveMaintenanceForIndustrialEquipment_HostAddress = http://localhost:5227
+
+GET {{PredictiveMaintenanceForIndustrialEquipment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

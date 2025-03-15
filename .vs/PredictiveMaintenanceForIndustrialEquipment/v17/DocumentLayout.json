@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\PredictiveMaintenanceForIndustrialEquipment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8943EB-0B82-4F19-A587-F210B45ECDCD}|PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment.csproj|d:\\projects\\predictivemaintenanceforindustrialequipment\\predictivemaintenanceforindustrialequipment\\services\\predictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8943EB-0B82-4F19-A587-F210B45ECDCD}|PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment.csproj|solutionrelative:predictivemaintenanceforindustrialequipment\\services\\predictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8943EB-0B82-4F19-A587-F210B45ECDCD}|PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment.csproj|d:\\projects\\predictivemaintenanceforindustrialequipment\\predictivemaintenanceforindustrialequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8943EB-0B82-4F19-A587-F210B45ECDCD}|PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment.csproj|solutionrelative:predictivemaintenanceforindustrialequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C8943EB-0B82-4F19-A587-F210B45ECDCD}|PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment.csproj|d:\\projects\\predictivemaintenanceforindustrialequipment\\predictivemaintenanceforindustrialequipment\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8943EB-0B82-4F19-A587-F210B45ECDCD}|PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment.csproj|solutionrelative:predictivemaintenanceforindustrialequipment\\controllers\\predictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "PredictiveMaintenanceForIndustrialEquipment\\Program.cs",
+              "ToolTip": "D:\\Projects\\PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment\\Program.cs",
+              "RelativeToolTip": "PredictiveMaintenanceForIndustrialEquipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:29:40.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PredictionController.cs",
+              "DocumentMoniker": "D:\\Projects\\PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment\\Controllers\\PredictionController.cs",
+              "RelativeDocumentMoniker": "PredictiveMaintenanceForIndustrialEquipment\\Controllers\\PredictionController.cs",
+              "ToolTip": "D:\\Projects\\PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment\\Controllers\\PredictionController.cs",
+              "RelativeToolTip": "PredictiveMaintenanceForIndustrialEquipment\\Controllers\\PredictionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:29:01.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PredictionService.cs",
+              "DocumentMoniker": "D:\\Projects\\PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment\\Services\\PredictionService.cs",
+              "RelativeDocumentMoniker": "PredictiveMaintenanceForIndustrialEquipment\\Services\\PredictionService.cs",
+              "ToolTip": "D:\\Projects\\PredictiveMaintenanceForIndustrialEquipment\\PredictiveMaintenanceForIndustrialEquipment\\Services\\PredictionService.cs",
+              "RelativeToolTip": "PredictiveMaintenanceForIndustrialEquipment\\Services\\PredictionService.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAA8wLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:29:37.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
